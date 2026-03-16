@@ -1,0 +1,4 @@
+# 대도서관(Library) — 선택 의존
+# OpenAI 사용 시에만 필요. 없으면 Stub 동작.
+
+openai>=1.0.0
